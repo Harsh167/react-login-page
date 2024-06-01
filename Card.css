@@ -1,0 +1,29 @@
+.card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 30%;
+    margin: 1em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-image {
+    height: 200px;
+    background-color: #ccc;
+  }
+  
+  .card-content {
+    padding: 1em;
+  }
+  
+  .card-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .card-actions a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+  }
+  
